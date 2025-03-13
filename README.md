@@ -21,6 +21,9 @@
 ## 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumbuljakhura&show_icons=true&theme=radical)  
 
+## 📊 Most Used Languages  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumbuljakhura&layout=compact&theme=radical)
+
 ## 🌍 Let's Connect  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://your-portfolio.com)  
