@@ -2,9 +2,10 @@
 
 👋 Hi there! I'm a **Front-End Developer** with expertise in **Next.js, React, TypeScript, and WordPress**. I love crafting responsive, user-friendly web apps.  
 
-## 📌 About Me  
-🔹 4+ years of experience  
-🔹 Passionate about UI/UX & API integrations  
+💫 About Me:
+Currently working on wordpress , shopify  and  Python and
+by profession senior wordpress @ DD and
+ faculty at Bano Qabil (Graphic Designing and web)
 
 ## 🔧 Tech Stack  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
