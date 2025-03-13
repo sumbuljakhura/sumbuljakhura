@@ -1,7 +1,5 @@
 # 🚀 Sumbul Jakhura  
 
-👋 Hi there! I'm a **Front-End Developer** with expertise in **Next.js, React, TypeScript, and WordPress**. I love crafting responsive, user-friendly web apps.  
-
 💫 About Me:
 Currently working on wordpress , shopify  and  Python and
 by profession senior wordpress @ DD and
